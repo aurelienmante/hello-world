@@ -1,2 +1,3 @@
 # hello-world
-This is my first GitHub repositery!
+
+This is the first time I'm using GitHub. I hope I'll get it right soon!
